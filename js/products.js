@@ -1,4 +1,6 @@
-// Updated products.js published from Shivashakti Crackers Owner Dashboard
+// Official 68 Products from Shivashakti Crackers Rate List
+// Edit directly in VS Code OR log in as Store Owner to edit & publish directly to GitHub Pages!
+
 window.INITIAL_STORE_SETTINGS = {
   "storeName": "SHIVASHAKTI CRACKERS",
   "teluguName": "శివశక్తి క్రాకర్స్",
